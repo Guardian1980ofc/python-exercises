@@ -21,5 +21,5 @@ while True:
         print("finalizando...")
         break
     if opc <= len(ficha) -1:
-        print(f"Notas de {ficha[opc][0]} são {fichas[opc][1]}")
+        print(f"Notas de {ficha[opc][0]} são {ficha[opc][1]}")
 print("<<< VOLTE SEMPRE >>>")
